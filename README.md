@@ -27,3 +27,5 @@ Text cleaning involves removing whitespace, standardizing text format, handling 
 Spacy is a natural language processing (NLP) library that provides advanced tools for annotating and analyzing text. To annotate text using Spacy, the library employs pre-trained models to tokenize, part-of-speech tag, and perform named entity recognition on the input text. Tokenization involves breaking the text into individual words or tokens, while part-of-speech tagging assigns grammatical categories (such as noun or verb) to each token. Named entity recognition identifies entities like persons, organizations, and locations within the text. Utilizing Spacy to annotate text allows for a structured representation of linguistic features, facilitating more sophisticated analysis and extraction of information from the text data.
 
 ## 7. Corpus details 
+
+
