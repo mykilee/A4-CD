@@ -28,4 +28,7 @@ Spacy is a natural language processing (NLP) library that provides advanced tool
 
 ## 7. Corpus details 
 
+| UNIVERSITY ID | UNIVERSITY NAME | UNIVERSITY TYPE | YEAR OF FOUND |
+|-------------|--------|-----|-----|
+| text's name  | university's name | the type of the university | the year of established of the university | 
 
